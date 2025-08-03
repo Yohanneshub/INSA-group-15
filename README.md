@@ -2,7 +2,7 @@
 # Medical History Integration System – 3-Week Development Roadmap
 
 **Goal:**  
-Developing a local demo of a **role-based medical history management system** with:  
+Developing a **role-based medical history management system** with:  
 - Role-based login (Doctor and Lab(Hospitals and clinics), Pharmacy, Admin, Patient)  
 - Patient medical history  
 - Permission code system for patient data access  
