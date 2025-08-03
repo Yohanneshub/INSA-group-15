@@ -1,11 +1,3 @@
-﻿# INSA-group-15
-
-Readme legizew yihenin argutina enqeyiralem.
-
-
-
-
-
 ‎# 🏥 Medical History Integration System – 3-Week Development Roadmap
 ‎
 ‎Goal:  
